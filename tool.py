@@ -1,3 +1,5 @@
+#all this does is to scrap information from a website
+
 import pprint
 
 import requests
